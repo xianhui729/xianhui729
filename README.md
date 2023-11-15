@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xianhui729 also Tim.
 - 👀 I’m interested in Data Science and Music.
 - 🌱 I’m currently learning Webspider.
-- 💞️ I’m looking to collaborate on MDPI.
 - 📫 How to reach me, please send Email to xianhui_xh@163.com.
 
 <!---
